@@ -75,7 +75,7 @@ const char PAGE_RGBControlMobile[] PROGMEM = R"=====(
 
     <script type="text/javascript">
         $(document).ready(function () {
-            var ws = new WebSocket("ws://" + "192.168.1.121" + ":81/");  // location.hostname
+            var ws = new WebSocket("ws://" + location.hostname + ":81/");  
 
             ws.onopen = function (evt) {
                 var conn_status = document.getElementById('conn_text');
