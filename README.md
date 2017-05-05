@@ -11,6 +11,8 @@ The web server defaults to port 80 and a websocket server uses port 81. Both pag
 
 The web server will accept http request to control the attached LEDs. To set the LEDs to red for example enter "http://192.168.4/1/rgb(255,0,0)" (replace example IP with local network IP).
 
+![httprequest](https://cloud.githubusercontent.com/assets/11177814/25767634/4875b62a-31c9-11e7-9ced-df78f96ceb16.png)
+
 The code also allows for "On" and "Off" time schedules using a remote NTP server. This section of the code may be commented out if scheduling is not desired or internet access is not available.
 
 ![timesserver](https://cloud.githubusercontent.com/assets/11177814/25767487/b1b71d6a-31c7-11e7-8252-658d7cbf1cc7.png)
