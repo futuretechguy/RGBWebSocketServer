@@ -17,5 +17,7 @@ The code also allows for "On" and "Off" time schedules using a remote NTP server
 
 ![timesserver](https://cloud.githubusercontent.com/assets/11177814/25767487/b1b71d6a-31c7-11e7-8252-658d7cbf1cc7.png)
 
-For Simplicity I uploded the code to an off the shelf Magic ESP8266 based controller.
+For Simplicity I uploded the code to an off the shelf Magic ESP8266 based controller from Ebay. http://www.ebay.com/itm/ARILUX-Mini-WiFi-RGB-Controller-APP-Control-For-5050-LED-Strip-Light-DC-5-28V/401192213381?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D40130%26meid%3Dd070ccc3b20443d9ad0c444dfc06b1a8%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D262887039437
+
+![rgbcontroller](https://cloud.githubusercontent.com/assets/11177814/25767714/e3ad6a84-31c9-11e7-9022-e4db67aba57d.png)
 
