@@ -16,3 +16,6 @@ The web server will accept http request to control the attached LEDs. To set the
 The code also allows for "On" and "Off" time schedules using a remote NTP server. This section of the code may be commented out if scheduling is not desired or internet access is not available.
 
 ![timesserver](https://cloud.githubusercontent.com/assets/11177814/25767487/b1b71d6a-31c7-11e7-8252-658d7cbf1cc7.png)
+
+For Simplicity I uploded the code to an off the shelf Magic ESP8266 based controller.
+
