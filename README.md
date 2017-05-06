@@ -21,7 +21,9 @@ For Simplicity I uploded the code to an off the shelf Magic ESP8266 based contro
 
 ![rgbcontroller](https://cloud.githubusercontent.com/assets/11177814/25767714/e3ad6a84-31c9-11e7-9022-e4db67aba57d.png)
 
-Since flashing requires opening and soldering a FTDI to the device it is advisable to enable Over-The-Air updating in the code.
+Since flashing requires opening and soldering a FTDI to the device, consider enableling "Over-The-Air" updating in the code. This allows future updates without reopening the device.
 
 ![ota](https://cloud.githubusercontent.com/assets/11177814/25768112/c9e0de98-31cd-11e7-97d8-47869949c280.png)
 
+The code uses the WiFiManager libery which requires special steps for connecting to the local network when the device boots for the first time after flashing. Please see link below.
+https://github.com/tzapu/WiFiManager
