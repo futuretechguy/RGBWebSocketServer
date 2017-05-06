@@ -23,5 +23,5 @@ For Simplicity I uploded the code to an off the shelf Magic ESP8266 based contro
 
 Since flashing requires opening and soldering a FTDI to the device it is advisable to enable Over-The-Air updating in the code.
 
-
+![ota](https://cloud.githubusercontent.com/assets/11177814/25768112/c9e0de98-31cd-11e7-97d8-47869949c280.png)
 
