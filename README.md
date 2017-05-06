@@ -27,3 +27,7 @@ Since flashing requires opening and soldering a FTDI to the device, consider ena
 
 The code uses the WiFiManager libery which requires special steps for connecting to the local network when the device boots for the first time after flashing. Please see link below.
 https://github.com/tzapu/WiFiManager
+
+If a static IP is not configured, the assigned IP and DNS hostname will be visible in the serial console after starting.
+
+![serialmonitor](https://cloud.githubusercontent.com/assets/11177814/25768282/b21fb82c-31cf-11e7-877b-079713b47ab4.png)
