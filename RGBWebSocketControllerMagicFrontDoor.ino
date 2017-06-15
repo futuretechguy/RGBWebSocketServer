@@ -7,6 +7,7 @@
 #include <ESP8266mDNS.h>
 #include <WiFiUdp.h>
 #include <WebSocketsServer.h>
+#include <Hash.h>
 #include "RGBControl.h"
 #include <EEPROM.h>
 #include "RGBControlMobile.h"
